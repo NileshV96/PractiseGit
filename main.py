@@ -3,8 +3,8 @@ import os
 import logging
 
 
-def addtion(a,b):
-    add=a + b
+def addtion(a,b,c):
+    add=a + b + c
     return add
     
 def summation(x,y):
